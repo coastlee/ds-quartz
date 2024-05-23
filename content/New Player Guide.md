@@ -20,37 +20,36 @@ Please select an existing background. You may reach out to a DM to customize you
 
 Along with picking your chosen backgrounds, you are also free to choose a feat. If your background comes with a feat already, you must switch it for one not on this list and you do not get 2 for a single background. The feat you choose CAN NOT be one on the following list:
 
-#### Banned Starter Feat List
-
-- Aberrant Dragonmark
-- Alert
-- Crossbow Expert
-- Dual Wielder
-- Elven Accuracy
-- Fey-Touched
-- Great Weapon Master
-- Gunner
-- Heavily Armored
-- Heavy Armor Master
-- Lucky
-- Magic Initiate
-- Medium Armor Master
-- Mental Acuity
-- Mobile
-- Moderately Armored
-- Polearm Master
-- Prodigy
-- Quarterstaff Practitioner
-- Resilient
-- Scholar of Lore
-- Sentinel
-- Shadow-touched
-- Sharpshooter
-- Shield Master
-- Skill Expert
-- Spell Sniper
-- Tough
-- War Caster
+> [!NOTE] - Banned Starter Feat List
+> - Aberrant Dragonmark
+> - Alert
+> - Crossbow Expert
+> - Dual Wielder
+> - Elven Accuracy
+> - Fey-Touched
+> - Great Weapon Master
+> - Gunner
+> - Heavily Armored
+> - Heavy Armor Master
+> - Lucky
+> - Magic Initiate
+> - Medium Armor Master
+> - Mental Acuity
+> - Mobile
+> - Moderately Armored
+> - Polearm Master
+> - Prodigy
+> - Quarterstaff Practitioner
+> - Resilient
+> - Scholar of Lore
+> - Sentinel
+> - Shadow-touched
+> - Sharpshooter
+> - Shield Master
+> - Skill Expert
+> - Spell Sniper
+> - Tough
+> - War Caster
 
 
 ### Equipment
@@ -83,3 +82,4 @@ You get max hit dice + CON modifier at first level. After first level, you can r
 - [ ] Fix 1d#+Con to reroll ones
 - [ ] Add v1.dicecloud and regular dicecloud (v2)
 - [ ] Link to Homebrew Submission
+- [ ] Link to PHB
