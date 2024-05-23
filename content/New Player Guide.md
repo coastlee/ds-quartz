@@ -20,7 +20,7 @@ Please select an existing background. You may reach out to a DM to customize you
 
 Along with picking your chosen backgrounds, you are also free to choose a feat. If your background comes with a feat already, you must switch it for one not on this list and you do not get 2 for a single background. The feat you choose CAN NOT be one on the following list:
 
-> [!NOTE] - Banned Starter Feat List
+> [!INFO]- Banned Starter Feat List
 > - Aberrant Dragonmark
 > - Alert
 > - Crossbow Expert
