@@ -1,6 +1,5 @@
 ---
 title: The Scattered Isles
-parent-geography: "[[Dragonsmoke Archipelago]]"
 tags:
   - geography/isles
 ---
