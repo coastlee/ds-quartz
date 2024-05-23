@@ -4,7 +4,9 @@ tags:
   - geography/island
   - island
   - island/dominion
-parent-geography: "[[Dragonsmoke Archipelago]]"
+
 aliases:
 ---
+parent-geography: [[Dragonsmoke Archipelago]]
+
 This is the island wherein the [[Heart of the Archipelago]] sits.
