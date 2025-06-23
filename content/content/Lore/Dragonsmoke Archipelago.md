@@ -1,0 +1,3 @@
+Dragonsmoke Archipelago is the setting in which all events take place.
+
+The [[wandering roads]] of [[Dragonsmoke Archipelago]] spiderweb away from [[Wildcross Harbor]] in ever changing and unpredictable ways. The archipelago is home to every environment one can imagine: freezing tundra, scorching desert, stagnant swamps, staggering peaks, tropical jungles, and rolling hills. All manner of beast and fiend can be found roaming around the many isles, but returning to civilization once you have ventured into the wilderness can be a challenge.
